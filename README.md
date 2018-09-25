@@ -23,5 +23,5 @@ Change the fuzzy matching percentage in the spellcheck.py file to suite your nee
 
 Do suggest for any improvement. 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Developed by the members of [Pragnakalp](https://www.pragnakalp.com/)
 
